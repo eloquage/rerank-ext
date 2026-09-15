@@ -1,0 +1,17 @@
+{
+    "name": "eloquage/rerank-ext",
+    "description": "Optional PIE-compatible TypePHP native extension for eloquage/rerank.",
+    "type": "php-ext",
+    "license": "MIT",
+    "require": {
+        "php": "^8.3"
+    },
+    "php-ext": {
+        "extension-name": "eloquage_rerank"
+    },
+    "homepage": "https://github.com/eloquage/rerank-ext",
+    "support": {
+        "source": "https://github.com/eloquage/rerank-ext"
+    }
+}
+
